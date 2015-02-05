@@ -1,0 +1,21 @@
+{
+    "name": "diiimonn/yii2-asset-spinner-canvas",
+    "description": "Yii2 asset bundle for spinner-canvas bower package",
+    "keywords": ["spinner", "canvas", "loader", "jquery", "yii2", "extension", "asset"],
+    "homepage": "https://github.com/diiimonn/yii2-asset-spinner-canvas",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Dmitriy Gavrilenko",
+            "email": "diiimonn@gmail.com"
+        }
+    ],
+    "require": {
+        "bower-asset/spinner-canvas": ">=1.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "diiimonn\\assets\\": ""
+        }
+    }
+}

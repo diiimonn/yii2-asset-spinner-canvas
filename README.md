@@ -23,7 +23,7 @@ to the ```require``` section of your `composer.json` file.
 ```php
 public $depends = [
     ...
-    'diiimonn\assets\SpinnerCanvas',
+    'diiimonn\assets\SpinnerCanvasAsset',
 ];
 ```
 ### in your.script.js

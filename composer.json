@@ -4,6 +4,8 @@
     "keywords": ["spinner", "canvas", "loader", "jquery", "yii2", "extension", "asset"],
     "homepage": "https://github.com/diiimonn/yii2-asset-spinner-canvas",
     "type": "yii2-extension",
+    "minimum-stability": "dev",
+    "version": "v1.0.0",
     "authors": [
         {
             "name": "Dmitriy Gavrilenko",

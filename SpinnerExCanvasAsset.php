@@ -9,10 +9,10 @@ use yii\web\AssetBundle;
  */
 class SpinnerExCanvasAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/spinner-canvas/js/excanvas';
+    public $sourcePath = '@vendor/diiimonn/yii2-asset-spinner-canvas/source';
 
     public $js = [
-        'excanvas.js'
+        'js/excanvas.min.js'
     ];
 
     public $jsOptions = [
